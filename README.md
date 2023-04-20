@@ -1,0 +1,2 @@
+# Google Trends bulk download data
+**Reference**: [How to bulk download data from Google Trends using Python](https://www.linkedin.com/pulse/how-bulk-download-data-from-google-trends-using-python-veillon/)
